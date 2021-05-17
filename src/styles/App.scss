@@ -1,0 +1,23 @@
+.actions{
+    opacity: 0;
+}
+
+
+tr:hover .actions{
+    opacity: 1;
+    
+}
+
+tr .actions{
+    cursor: pointer;
+}
+
+tbody td a{
+    color: #222;
+    
+    &:hover{
+        color: #222222;
+    }
+}
+
+

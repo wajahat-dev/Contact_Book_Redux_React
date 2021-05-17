@@ -1,0 +1,1 @@
+export {contactReducer as default} from "./contact/contactReducer"
